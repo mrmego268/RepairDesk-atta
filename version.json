@@ -1,7 +1,7 @@
 
 {
-  "version": "1.4.2",
-  "url": "https://github.com/mrmego268/RepairDesk-atta/releases/download/v1.4.2/main.exe",
-  "sha256": "7B32A523EA5C35DFC5A4C38253FFAC71CB92AEE4DF5120EB0F35D54E2D6193DF",
+  "version": "1.4.3",
+  "url": "https://github.com/mrmego268/RepairDesk-atta/releases/download/v1.4.3/main.exe",
+  "sha256": "19CB3F933A730D4C2148B2E0BB755AF76B81D65A8B409D241915F119296E6688",
   "notes": "تحسين واجهة المستخدم + اختبار التحديث التلقائي"
 }
